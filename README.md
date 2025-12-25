@@ -1,0 +1,2 @@
+# his-project-focuses-on-presenting-the-most-famous-movies-based-on-their-rankings.
+It displays a curated list of popular films, ordered according to their current rank, allowing users to easily explore and compare top movies. In addition, the project includes the ability to update movie rankings, ensuring that the list remains dynamic and reflects changes in popularity, ratings, or user preferences. .
